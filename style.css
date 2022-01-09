@@ -2,6 +2,7 @@ body {
     color: white;
     background-color: #0f203b;
     font-family: Trebuchet MS;
+    text-align: center;
     
  }
  a:link {
@@ -14,4 +15,3 @@ body {
  a:hover {
    color: LightBlue;
  }
- 
