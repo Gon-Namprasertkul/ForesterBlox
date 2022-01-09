@@ -1,0 +1,17 @@
+body {
+    color: white;
+    background-color: #0f203b;
+    font-family: Trebuchet MS;
+    
+ }
+ a:link {
+   color: #135cd1;
+ }
+ 
+ a:visited {
+   color: #135cd1;
+ }
+ a:hover {
+   color: LightBlue;
+ }
+ 
